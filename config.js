@@ -34,8 +34,8 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
-global.linkyt = 'https://youtu.be/c/Sofatiagar'
-global.WM = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 𝐂𝐥𝐚𝐫𝐚𝐚'
+global.linkyt = 'https://youtu.be/c/SofatiGT'
+global.WM = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 *SofatiXD*'
 global.linkgc = 'https://chat.whatsapp.com/Gapunya'
 global.linkig = 'https://www.instagram.com/sofati.stfu'
 global.deslink = ''
@@ -66,11 +66,11 @@ global.zt = '*'
 global.zc = ''
 
 global.thumbnailUrl = [
-  'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
-  'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
-  'https://telegra.ph/file/7d6c0e35f9c8f52715541.jpg', 'https://telegra.ph/file/ef4b742d47e6a9115e2ff.jpg',
-  'https://telegra.ph/file/55e5af5f33fbd57104187.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
-  'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
+  'https://telegra.ph/file/8c65d2778d1ff780dd133.jpg', 'https://telegra.ph/file/8c65d2778d1ff780dd133.jpg',
+  'https://telegra.ph/file/8c65d2778d1ff780dd133.jpg', 'https://telegra.ph/file/8c65d2778d1ff780dd133.jpg',
+  'https://telegra.ph/file/8c65d2778d1ff780dd133.jpg', 'https://telegra.ph/file/8c65d2778d1ff780dd133.jpg',
+  'https://telegra.ph/file/8c65d2778d1ff780dd133.jpg', 'https://telegra.ph/file/8c65d2778d1ff780dd133.jpg',
+  'https://telegra.ph/file/8c65d2778d1ff780dd133.jpg', 'https://telegra.ph/file/8c65d2778d1ff780dd133.jpg'
 ]
 
 //============= Games ================//
