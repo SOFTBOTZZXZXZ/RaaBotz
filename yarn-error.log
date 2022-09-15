@@ -14,7 +14,17 @@ Platform:
   android arm64
 
 Trace: 
-  Error: EPERM: operation not permitted, symlink '../../../../pino/bin.js' -> '/storage/emulated/0/furry-bot/node_modules/@adiwajshing/baileys/node_modules/.bin/pino'
+  Error: https://registry.yarnpkg.com/@vitalets/google-translate-api/-/google-translate-api-7.0.0.tgz: Request failed "500 Internal Server Error"
+      at ResponseError.ExtendableBuiltin (/data/data/com.termux/files/usr/share/yarn/lib/cli.js:696:66)
+      at new ResponseError (/data/data/com.termux/files/usr/share/yarn/lib/cli.js:802:124)
+      at Request.<anonymous> (/data/data/com.termux/files/usr/share/yarn/lib/cli.js:66215:16)
+      at Request.emit (node:events:513:28)
+      at module.exports.Request.onRequestResponse (/data/data/com.termux/files/usr/share/yarn/lib/cli.js:141767:10)
+      at ClientRequest.emit (node:events:513:28)
+      at HTTPParser.parserOnIncomingClient (node:_http_client:674:27)
+      at HTTPParser.parserOnHeadersComplete (node:_http_common:117:17)
+      at TLSSocket.socketOnData (node:_http_client:521:22)
+      at TLSSocket.emit (node:events:513:28)
 
 npm manifest: 
   {
