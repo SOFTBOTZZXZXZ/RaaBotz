@@ -318,7 +318,7 @@ let ftt = `*Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan sil
                                 }, {
                                 "rows": [{                                	
                                 "title": "📝 ∫  Catatan Perubahan ",
-                                "description": "Last Update Terakhir Di RaaBotz-MD",
+                                "description": "Last Update Terakhir Di SoftBOTz-MD",
                                 "rowId": ".notes"                  
                 }],                
                                 "title": "▮Last Update 」"
