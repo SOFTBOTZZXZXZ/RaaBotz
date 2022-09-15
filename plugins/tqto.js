@@ -16,7 +16,8 @@ Terimakasih Juga Untuk Kang Banned:
 ──────────────────────
 • God
 • My ortu
-• Claraa ( Me )
+• SofatiXD (ME)
+• Claraa
 • Nurutomo
 • Adiwajshing
 • Xteam
