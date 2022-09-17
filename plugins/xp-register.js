@@ -147,11 +147,11 @@ conn.sendButtonLoc(m.sender, await conn.resize(await (await fetch(fla + 'Regist
     kode = Math.floor(Math.random() * 9999) 
  let ziv = '```'
  let hauo = `Reply Pesan Ini Atau Dan Balas Pesan Ini Untuk Verifikasi! Kode Di Pesan Di Bawah Ini
-Seluruh informasi kamu (no. handphone dan password) adalah rahasia. Jangan pernah berikan informasi tersebut kepada siapa pun. Cute Bot tidak pernah meminta informasi rahasia dari kamu.
+Seluruh informasi kamu (no. handphone dan password) adalah rahasia. Jangan pernah berikan informasi tersebut kepada siapa pun. SoftBOTz tidak pernah meminta informasi rahasia dari kamu.
 
 Your true data registered powered
 *Supported By @${global.owner[0].split('@')[0]}*` 
-    aww = await conn.sendButtonLoc(m.sender, 'https://telegra.ph/file/51fa80b60e45651dee465.jpg', `Welcome to Cute Bot ! Please confirm your account using the following code:
+    aww = await conn.sendButtonLoc(m.sender, 'https://telegra.ph/file/51fa80b60e45651dee465.jpg', `Welcome to SoftBOTz ! Please confirm your account using the following code:
 
 ${ziv}${kode}${ziv}
 `, hauo, 'Owner', `.owner`, m) 
