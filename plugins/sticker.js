@@ -5,7 +5,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
 	conn.sendFile(m.chat, 'https://bit.ly/3ck9GVu', 'haori.mp3', null, m, true, {
 type: 'audioMessage', 
 ptt: true, contextInfo: {
-        externalAdReply: { showAdAttribution: true, title: ucapan, body: 'Sebentar Yah Kak Lagi Di Proses', sourceUrl: 'https://www.tiktok.com/@fory_whitecattiktok?_t=8V5TGON5rgv&_r=1', thumbnail: await (await fetch('https://telegra.ph/file/da00823114c5c503c6d9b.jpg')).buffer(),}} 
+        externalAdReply: { showAdAttribution: true, title: ucapan, body: 'Sebentar Yah Kak Lagi Di Proses', sourceUrl: 'https://www.tiktok.com/@sofatixd?_t=8VnXagXuO4P&_r=1', thumbnail: await (await fetch('https://telegra.ph/file/da00823114c5c503c6d9b.jpg')).buffer(),}} 
      })
   let stiker = false
   let wsf = false
